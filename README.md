@@ -1,0 +1,1 @@
+Project structure is recommended by Edward Ma https://makcedward.github.io/
