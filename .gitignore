@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.vscode/
+tweet-crisis.code-workspace
+twitter_api.yml
+**/__pycache__/
